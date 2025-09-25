@@ -1,9 +1,13 @@
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="description"
+  content="be a millionaire today">
+  
   <title>Survey Dashboard</title>
-  <link rel="stylesheet" href="style.css" />
+  
 <style>
 /* style.css */
 body {
@@ -61,6 +65,6 @@ onclick="open()">open
 <button 
 onclick="open()">open 
 </button>
-<a href="Be a millionaire today">
+<a href="Be a millionaire today"></a>
 </body>
 </html>
